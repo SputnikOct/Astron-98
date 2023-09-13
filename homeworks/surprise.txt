@@ -1,5 +1,5 @@
 Name:
-Student ID:
+Student ID: 3039201921
 
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
 The windows terminal is running in C++.
